@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Varun
 - 👀 I’m interested in Tech and Business solutions
 - 🌱 I’m currently learning Web Technologies
-- 💞️ I’m looking to collaborate on Business projects
+- 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me varunbadave99@gmail.com
 
 <!---
